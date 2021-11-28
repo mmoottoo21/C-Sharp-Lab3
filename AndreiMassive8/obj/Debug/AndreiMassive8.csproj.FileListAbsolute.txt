@@ -1,0 +1,7 @@
+C:\Users\Matvey\Desktop\AndreiMassive8\AndreiMassive8\obj\Debug\AndreiMassive8.csprojAssemblyReference.cache
+C:\Users\Matvey\Desktop\AndreiMassive8\AndreiMassive8\obj\Debug\AndreiMassive8.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Desktop\AndreiMassive8\AndreiMassive8\bin\Debug\AndreiMassive8.exe.config
+C:\Users\Matvey\Desktop\AndreiMassive8\AndreiMassive8\bin\Debug\AndreiMassive8.exe
+C:\Users\Matvey\Desktop\AndreiMassive8\AndreiMassive8\bin\Debug\AndreiMassive8.pdb
+C:\Users\Matvey\Desktop\AndreiMassive8\AndreiMassive8\obj\Debug\AndreiMassive8.exe
+C:\Users\Matvey\Desktop\AndreiMassive8\AndreiMassive8\obj\Debug\AndreiMassive8.pdb
